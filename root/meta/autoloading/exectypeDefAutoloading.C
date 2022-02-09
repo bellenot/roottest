@@ -1,3 +1,0 @@
-void exectypeDefAutoloading(){
-   foo myfoo;
-}

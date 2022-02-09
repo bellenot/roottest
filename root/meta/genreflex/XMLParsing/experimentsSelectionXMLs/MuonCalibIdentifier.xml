@@ -1,7 +1,0 @@
-<lcgdict>
-
- <class name="MuonCalib::FixedIdDecoder" />
- <class name="MuonCalib::MuonFixedId" />
- <function name="MuonCalib::OnlineToOffline" />
- 
-</lcgdict>

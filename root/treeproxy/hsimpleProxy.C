@@ -1,4 +1,0 @@
-double hsimpleProxy() {
-   return px;
-}
-

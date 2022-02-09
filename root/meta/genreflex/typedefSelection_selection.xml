@@ -1,6 +1,0 @@
-<rootdict>
-   <class name="typedefA" />
-   <typedef name="typedefB" />
-   <class name="ns::typedefC" />
-   <typedef name="ns::typedefD" />
-</rootdict>

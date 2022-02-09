@@ -1,8 +1,0 @@
-Processing C:/Users/bellenot/github/roottest/root/meta/runautoload.C...
-
-Error in <TInterpreter::TCling::AutoLoad>: failure loading library libCore.so for NotReal
-Error in <TInterpreter::TCling::AutoLoad>: failure loading library libCore.so for NotReal
-Error in <TInterpreter::TCling::AutoLoad>: failure loading library libCore.so for NotReal
-Error in <TInterpreter::TCling::AutoLoad>: failure loading library libCore.so for NotReal
-Error in <TInterpreter::TCling::AutoLoad>: failure loading library libCore.so for NotReal
-Error in <TInterpreter::TCling::AutoLoad>: failure loading library libCore.so for NotReal

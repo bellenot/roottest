@@ -1,5 +1,0 @@
-<lcgdict>
-  <class name="LArCell" /> 
-  <class name="LArNoisyROSummary" /> 
-  <class name="LArCollisionTime" />
-</lcgdict>

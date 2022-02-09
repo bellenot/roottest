@@ -1,5 +1,0 @@
-<lcgdict>
-  <class name="testClass"/>
-  <enum name="EcalSeverityLevel::SeverityLevel"/>
-  <enum name="testEnum2" />
-</lcgdict>

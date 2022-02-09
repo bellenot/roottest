@@ -1,9 +1,0 @@
-
-<lcgdict>
-  <class name="LArOnlineID" />
-  <class name="LArOnlineID_Base" />
-  <class name="LArOnline_SuperCellID" />
-  <class name="LArHVLineID" />
-  <class name="LArElectrodeID" />
-
-</lcgdict>

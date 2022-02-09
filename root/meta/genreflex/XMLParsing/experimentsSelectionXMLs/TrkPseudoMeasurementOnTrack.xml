@@ -1,5 +1,0 @@
-<lcgdict>
-  <class name="Trk::PseudoMeasurementOnTrack" >
-   <field name="m_globalPosition" transient="true" />
-  </class>
-</lcgdict>

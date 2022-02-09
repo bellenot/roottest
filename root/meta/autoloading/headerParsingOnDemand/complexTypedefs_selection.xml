@@ -1,7 +1,0 @@
-<lcgdict>
-   <class name="GaudiAlg::HistoID"/>
-    <class name="IServicePtrs"/>
-   <class name="vector<IService*>"/>
-   <class name="myTempl<B***>"/>
-</lcgdict>
-

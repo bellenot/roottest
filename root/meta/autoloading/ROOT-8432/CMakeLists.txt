@@ -1,5 +1,0 @@
-ROOTTEST_GENERATE_REFLEX_DICTIONARY(cmswrapper cmswrapper.h SELECTION sel.xml)
-set(depends ${GENERATE_REFLEX_TEST})
-
-ROOTTEST_ADD_AUTOMACROS(DEPENDS ${depends})
-

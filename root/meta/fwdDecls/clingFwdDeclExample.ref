@@ -1,3 +1,0 @@
-class __attribute__((annotate("$clingAutoload$A.h")))  A;
-class B;
-class B{};

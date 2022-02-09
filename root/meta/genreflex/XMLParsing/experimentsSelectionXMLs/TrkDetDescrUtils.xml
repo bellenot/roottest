@@ -1,5 +1,0 @@
-<lcgdict>
-  <class name="Trk::LayerIndex"    />
-  <class name="Trk::BinningData"   />
-  <class name="Trk::BinUtility"    />
-</lcgdict>

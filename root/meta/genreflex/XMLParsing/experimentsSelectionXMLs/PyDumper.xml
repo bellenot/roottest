@@ -1,4 +1,0 @@
-<lcgdict>
-  <class name="PyDumper::PySTLAdaptor<DetailedTrackTruthCollection>"/>
-  <class name="PyDumper::PySTLAdaptor<DetailedTrackTruthCollection>::iterator"/>
-</lcgdict>

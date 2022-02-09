@@ -1,4 +1,0 @@
-enum EOnlyShort : short { 
-  kSomeShortValue
-};
-

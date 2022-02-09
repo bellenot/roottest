@@ -1,8 +1,0 @@
-<!--This selection file shows the possibility of selecting with a typedef
-and exclude with their real type name-->
-<lcgdict>
- <class pattern="Mdoubl*" />
-<exclusion>
- <class name="M<double,3>" />
-</exclusion>
-</lcgdict>
