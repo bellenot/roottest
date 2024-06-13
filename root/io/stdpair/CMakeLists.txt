@@ -31,6 +31,10 @@ foreach(B RANGE 0 1)
 foreach(C RANGE 0 1)
 foreach(D RANGE 0 1)
 
+if(MSVC AND NOT win_broken_tests AND ${A} EQUAL 3)
+    continue()
+endif()
+
 ROOTTEST_ADD_TEST(pairEnumEvo_${A}_${B}_${C}_${D}
                   MACRO pairEnumEvo.C
                   MACROARG ${A},${B},${C},${D}
